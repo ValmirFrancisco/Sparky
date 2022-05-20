@@ -1,0 +1,12 @@
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\bin\Debug\net6.0\Sparky.deps.json
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\bin\Debug\net6.0\Sparky.dll
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\bin\Debug\net6.0\Sparky.pdb
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.AssemblyReference.cache
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfoInputs.cache
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfo.cs
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.CoreCompileInputs.cache
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.dll
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\refint\Sparky.dll
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\Sparky.pdb
+C:\Users\valmir.francisco\source\repos\Sparky\Sparky\obj\Debug\net6.0\ref\Sparky.dll
