@@ -100,13 +100,13 @@ C:\Users\valmir.francisco\source\repos\Sparky\SparkyMSTest\obj\Debug\net6.0\Spar
 C:\Users\valmir.francisco\source\repos\Sparky\SparkyMSTest\obj\Debug\net6.0\SparkyMSTest.genruntimeconfig.cache
 C:\Users\valmir.francisco\source\repos\Sparky\SparkyMSTest\obj\Debug\net6.0\ref\SparkyMSTest.dll
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\testhost.exe
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\testhost.dll
+C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\testhost.exe
+C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
-C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\SparkyMSTest.deps.json
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\SparkyMSTest.runtimeconfig.json
 C:\Users\valmi\source\repos\Sparky\SparkyMSTest\bin\Debug\net6.0\SparkyMSTest.dll

@@ -65,7 +65,68 @@ namespace Sparky
             //Assert
             Assert.That(result, Is.InRange(10, 25));
 
+        }
 
+        [Test]
+        public void GreetMessage_GreetedWithoutLastName_ReturnsNotNull()
+        {
+            //Arrange
+            customer.GreetAndCombineNames("Asdrubal", "");
+
+            //Act
+
+            //Assert
+            Assert.IsNotNull(customer.GreetMessage);
+
+            Assert.IsFalse(string.IsNullOrEmpty(customer.GreetMessage));
+        }
+
+        [Test]
+        public void GreetChecker_EmptyFirstName_ThrowsException()
+        {
+            //Arrange
+            var exceptionDetails = Assert.Throws<ArgumentException>(() => customer.GreetAndCombineNames("", "Moncorvo"));
+
+            //Act
+
+            //Assert
+            Assert.AreEqual("Empty First Name", exceptionDetails.Message);
+
+            Assert.That(() => customer.GreetAndCombineNames("", "Moncorvo"),
+                            Throws.ArgumentException.With.Message.EqualTo("Empty First Name"));
+
+            //Arrange
+            Assert.Throws<ArgumentException>(() => customer.GreetAndCombineNames("", "Moncorvo"));
+
+            //Assert
+            Assert.That(() => customer.GreetAndCombineNames("", "Moncorvo"),
+                            Throws.ArgumentException);
+        }
+
+        [Test]
+        public void CustomerType_CreateCustomerWithLess100Than100Order_ReturnBasicCustomer()
+        {
+            //Arrange
+            customer.OrderTotal = 10;
+
+            //Act
+            var result = customer.GetCustomerDetails();
+
+            //Assert
+            Assert.That(result, Is.TypeOf<BasicCustomer>());
+        }
+
+        [Test]
+        public void CustomerType_CreateCustomerWithMore100Than100Order_ReturnPlatinumCustomer()
+        {
+            //Arrange
+            customer.OrderTotal = 110;
+
+            //Act
+            var result = customer.GetCustomerDetails();
+
+            //Assert
+            Assert.That(result, Is.TypeOf<PlatinumCustomer>());
         }
     }
 }
