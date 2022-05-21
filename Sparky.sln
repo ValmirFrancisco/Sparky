@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sparky", "Sparky\Sparky.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyMSTest", "SparkyMSTest\SparkyMSTest.csproj", "{15472D69-643E-4C6B-92BB-175E27DC7807}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkyNUnitTest", "SparkyNUitTest\SparkyNUnitTest.csproj", "{941F701C-D0F1-40DD-ADAD-7194E97B487F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyNUnitTest", "SparkyNUitTest\SparkyNUnitTest.csproj", "{941F701C-D0F1-40DD-ADAD-7194E97B487F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkyXUnit", "SparkXUnit\SparkyXUnit.csproj", "{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{941F701C-D0F1-40DD-ADAD-7194E97B487F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{941F701C-D0F1-40DD-ADAD-7194E97B487F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{941F701C-D0F1-40DD-ADAD-7194E97B487F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
