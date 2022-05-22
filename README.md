@@ -68,7 +68,7 @@
 ## About The Project
 
 Unit Testing in .Net Core (Nunit and XUnit) and Visual Studio 2022.
-This API accesses SQLServer database and InMemory
+This application accesses SQLServer database and InMemory
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
