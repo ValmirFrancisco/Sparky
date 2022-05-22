@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sparky", "Sparky\Sparky.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyMSTest", "SparkyMSTest\SparkyMSTest.csproj", "{15472D69-643E-4C6B-92BB-175E27DC7807}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyNUnitTest", "SparkyNUitTest\SparkyNUnitTest.csproj", "{941F701C-D0F1-40DD-ADAD-7194E97B487F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyNUnitTest", "SparkyNUnitTest\SparkyNUnitTest.csproj", "{941F701C-D0F1-40DD-ADAD-7194E97B487F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyXUnit", "SparkXUnit\SparkyXUnit.csproj", "{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkyXUnitTest", "SparkXUnit\SparkyXUnitTest.csproj", "{601201FE-3F85-4DBA-8857-E6E3B0B52BD6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic Foundation", "Basic Foundation", "{057FB6FF-1FD6-4494-88EC-3E2914530B7E}"
 EndProject
@@ -27,9 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bongo.Models.Tests", "Bongo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bongo.DataAccess.Tests", "Bongo.DataAccess.Tests\Bongo.DataAccess.Tests.csproj", "{F8B997A2-92F1-477D-A738-BC73E320EBFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Core.Tests", "Bongo.Core.Tests\Bongo.Core.Tests.csproj", "{5E0D2F9F-065B-4946-8375-F73B5BC34EA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bongo.Core.Tests", "Bongo.Core.Tests\Bongo.Core.Tests.csproj", "{5E0D2F9F-065B-4946-8375-F73B5BC34EA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bongo.Web.Tests", "Bongo.Web.Tests\Bongo.Web.Tests.csproj", "{A2C42475-3CBB-4DBC-8338-8C761EFEBD37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bongo.Web.Tests", "Bongo.Web.Tests\Bongo.Web.Tests.csproj", "{A2C42475-3CBB-4DBC-8338-8C761EFEBD37}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
